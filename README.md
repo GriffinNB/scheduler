@@ -15,7 +15,7 @@ A work scheduler
 
 https://griffinnb.github.io/scheduler/
 
-![Sample Screenshot of Scheduler.](./Assets/screenshot.png)
+![Sample Screenshot of Scheduler.](./assets/images/screenshot.png)
 
 
 Was created using previous activities and challenges in the bootcamp, along with tutorials and walkthroughs on google. Thank you to FreeCodeCamp for the helpful guides.
